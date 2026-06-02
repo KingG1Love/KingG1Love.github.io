@@ -12,7 +12,8 @@
 
 * **Google Authenticator:** — *самый популярный и простой.* [App Store](https://apps.apple.com/app/google-authenticator/id388497605) | [Google Play](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2)
 * **Яндекс Ключ:** — *удобен для российских сервисов.* [App Store](https://apps.apple.com/app/yandex-id-ex-key/id957324816) | [Google Play](https://play.google.com/store/apps/details?id=ru.yandex.key)
-* **2FAS Authenticator:** [App Store](https://apps.apple.com/app/2fa-authenticator-2fas/id1217793794) | [Google Play](https://play.google.com/store/apps/details?id=com.twofasapp) и **Aegis (Android):** [Google Play](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) | [F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis/) - *менее популярные решения*
+* **2FAS Authenticator:** [App Store](https://apps.apple.com/app/2fa-authenticator-2fas/id1217793794) | [Google Play](https://play.google.com/store/apps/details?id=com.twofasapp)
+* **Aegis (Android):** [Google Play](https://play.google.com/store/apps/details?id=com.beemdevelopment.aegis) | [F-Droid](https://f-droid.org/packages/com.beemdevelopment.aegis/) - *менее популярные решения*
 ---
 
 ## ⚙️ Шаг 2. Включите 2FA в настройках вашего аккаунта
