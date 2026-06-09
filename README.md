@@ -1,5 +1,5 @@
 ### ENG 
-# (Ru version at the end of the page)
+(Ru version at the end of the page)
 
 # 🛡️ How to Secure Your Account: A Step-by-Step Guide to 2FA Setup
 
